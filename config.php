@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 
-define('SILENTC_TOKEN', 'YOUR:TOKEN_HERE');
+define('SILENTC_TOKEN', '1044571514:AAHyXxyPHXD59HvICpego-PQLJ7-dfUPeh4');
 $db_data = ['sqlite:silentc.db'];
 
 $cfg = [
